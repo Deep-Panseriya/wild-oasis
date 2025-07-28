@@ -2,7 +2,7 @@ import styled from 'styled-components'
 import HeaderMenu from './HeaderMenu'
 import UserAvtar from '../features/authentication/UserAvatar'
 import SearchableList from '../features/search/ SearchableList'
-import useBookings from '../features/bookings/useBookings'
+
 
 const StyledHeader = styled.header`
   background-color: var(--color-grey-0);
